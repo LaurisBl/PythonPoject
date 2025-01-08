@@ -1,0 +1,4 @@
+Laurynas:
+  Matematika: 5
+Kristupas:
+  Lietuviu: 10
